@@ -1,4 +1,4 @@
-# 🚀 EazyBank : Server-Side Service Discovery & Load Balancing with Kubernetes
+# 🚀 EazyBank : Server-Side Service Discovery & Load Balancing with Kubernetes 
 
 ![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-green?style=for-the-badge&logo=spring&logoColor=white)
